@@ -1,9 +1,9 @@
-📱 Aplicación Móvil para la Gestión de Reservas del Hotel Miraflores
-Proyecto Integrador - Ingeniería en Software - UNIANDES
+📱 Proyecto Integrador - Ingeniería en Software - UNIANDES
 Autores: Francisco Quinteros, Matías Mosquera, José Xavier Torres
 
 📄 Documentación del Proyecto
 Aplicación Móvil para la Gestión de Reservas del Hotel Miraflores – Ibarra
+
 Este repositorio contiene la documentación oficial del proyecto integrador desarrollado para modernizar el proceso de reservas del Hotel Miraflores mediante una aplicación móvil.
 
 🧾 Contenido del Repositorio
